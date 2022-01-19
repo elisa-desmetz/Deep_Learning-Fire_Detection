@@ -3,6 +3,8 @@ Mise en oeuvre des cours de deep learning.
 
 L'objectif de ce projet est de mettre en place un modèle permettant de reconnaître des images présentant du feu.
 
+Dataset [Kaggle](https://www.kaggle.com/phylake1337/fire-dataset)
+
 Les données initiales sont composées de 2 dossiers :
 - 755 images d'incendies en extérieur
 - 244 photos de nature "normales" (forêt, arbre, herbe, rivière, etc.)
